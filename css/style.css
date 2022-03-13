@@ -1,0 +1,26 @@
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_1818972_lgfrmbqu6tp.eot?t=1605666306662'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_1818972_lgfrmbqu6tp.eot?t=1605666306662#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOkAAsAAAAAB9gAAANXAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDOIMKATYCJAMMCwgABCAFhG0HPxvZBsguIScbXgQi2s2toAEa7hk1+DnyF8oLnv/2a/fNzDddaYt5tKieVBKHkgiFPZ2SCGUbiUaD7knbyo/+VW8hZwFWMJM/2XEmK/LkluqE9qorGh/dvMeBkx4X2O+mpwlE9AGV+qqB/wYIMDOfAqvcuQvf//8f7rX1Ep7XslzmGtSJOgHGAQU45gYL8H+QL+h/GLvyIrZDAJ82AdTmUrOLQReD0U8AuaZCA+imNJiafMFFsEumGpAqaOGqSfVHgFv/9+WLsHQBhaXBGLq1lGaIv/+BDfwfoNrFAHc8E8BmgQZGAAbkuNSySyOMjNDAVySa9ek2BkGN5R98jiqyzX94oBAQG4zcEIABJFYnxbXpUPDm8c66XANgA8uhCnCPFcW+6W4YkZpqatrP6X77FL97Sz78Ze+/ihVLNcu7gAA126C4TH8/8RiYGtYuqnXvxJDT6+yh/dq6uVNSsvbeyzrCYWpdrL4refcK06tCfWCFhFNrSA+uKxMdAU6GivUhuMDSqzaII4o4kRa3Pw13NRpr3jWZLsvRaNZjJvom0wGtFYDvieDj/Mg13R5lntv8i/+N69wzZSIxahNHSaMyM5dRnxTjzfTW5ZBz2TbDRS2tvnArKc8p0w77wMsj3a69qnPr2IkV3av+L1J37bRxN+2bobqxo+t+n+U3lTWayzK7VzTbDeoB0KJrGpNAKwsa2d/7Gx5erbTqTOq/roEmALw8n+O7WwztLbiUeBH4V9yWNUblG1ptZI7N0eOaLbpvQo2vSvlDhQC57/1tJRCbBJdzISgcKqBx6cEaNAIWAaNg4zIJPsPSZgcUMBqI0QMYMgpASF0DRUwNNKk3WIO+gUXZT7BJ0wCf7diSAX1R/ZXhBo6bUWMnok1yGbH0XD/IL8RCq6SBJfk+qRQzFfWj0KCQbDwNyzAbY4SqTQjjnCDC5FKUCnbDEokcKZi8BTfxIBHnirjgYFL2oaAmuRT0mcVgDTisGdKoE0I1kZMhbmNOP/fzhTBBK4kGrKaqwlgKY1Ro60ioICEtsGkSWauqa7lFpY0gDMcRCMHISSGpwIRJzIgcoijv1AJrwgUR9QgpxAlG9UhbSdD8MunzbQJ8jPZa1NU01DTBvaQywTbqH3KnrEtEeQMFAAA=') format('woff2'),
+  url('//at.alicdn.com/t/font_1818972_lgfrmbqu6tp.woff?t=1605666306662') format('woff'),
+  url('//at.alicdn.com/t/font_1818972_lgfrmbqu6tp.ttf?t=1605666306662') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_1818972_lgfrmbqu6tp.svg?t=1605666306662#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  color: #222;
+  font-size: 4em;
+  display: inline-block;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dingding:before {
+  content: "\e709";
+}
+
+.icon-kongzhitai:before {
+  content: "\e628";
+}
